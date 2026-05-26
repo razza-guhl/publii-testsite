@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TestSite",
+    "description": "",
+    "home_page_url": "https://razza-guhl.github.io/publii-testsite",
+    "feed_url": "https://razza-guhl.github.io/publii-testsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Maurice"
+    },
+    "items": [
+    ]
+}

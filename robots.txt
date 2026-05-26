@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://razza-guhl.github.io/publii-testsite/sitemap.xml
